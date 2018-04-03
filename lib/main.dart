@@ -15,7 +15,7 @@ class Yourclassname extends StatelessWidget
       backgroundColor: Colors.green[200],
       appBar:  new AppBar(
           title: new Center (
-            child: new Text("Flutter row"),
+            child: new Text("Flutter column"),
           )//center
 
       ),
